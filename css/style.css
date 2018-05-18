@@ -1,0 +1,193 @@
+@font-face {
+    font-family: cth79;
+    src: url(../fonts/Oswald-Light.ttf);
+}
+
+.header-top {
+    margin: 0px;
+    height: 40px;
+    margin-left: 30px;
+}
+
+.header-top ul li {
+    display: inline;
+    padding: 0 5px;
+    color: #ddd;
+}
+
+.header-top ul li a {
+    color: black;
+}
+
+.navbar-default .navbar-nav {
+    padding-right: 500px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.nopad {
+    padding: 0px;
+}
+
+.banner {
+    margin-top: -20px;
+}
+
+.banner>img {
+    height: 455px;
+    width: 100%;
+    position: relative
+}
+
+.banner_text>p {
+    font-weight: bold;
+    font-family: cth79;
+    font-size: 30px;
+}
+
+.banner_text {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+
+.button_shopNow {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+
+.section>h3 {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    color: white;
+}
+
+.section>p {
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    font-family: cth79;
+    top: 60%;
+    left: 35%;
+}
+
+.service_section {
+    padding-top: 60px;
+}
+
+.xyz {
+    margin-top: 80px;
+    text-align: center;
+    top: 80%;
+    left: 80%;
+    font-family: cth79;
+}
+
+.items .item img {
+    margin-top: 35px;
+    margin-bottom: 10px;
+    transition: all 1s ease;
+}
+.items .item img:hover{
+    transform: scale(1.1);
+}
+
+.items {
+    padding-top: 40px;
+}
+
+.items2nd>item4>img {
+    height: auto;
+}
+
+.item {}
+
+.EFG {
+    margin-top: 80px;
+    text-align: center;
+    top: 80%;
+    left: 80%;
+    font-family: cth79;
+}
+
+.item3rd {
+    margin-top: 80px;
+}
+
+.TEXT1 {
+    margin-top: 100px;
+}
+
+.TEXT2>h3 {
+    font-weight: bold;
+    font-family: cth79;
+}
+
+.button_emilUs {
+    margin-top: 40px;
+}
+
+.button_emilUs2 {
+    margin-top: 90px;
+}
+
+.TEXT1 {
+    background-color: gainsboro;
+    padding-bottom: 60px;
+}
+
+
+
+.navbar-brand {
+    margin-left: 600px;
+}
+
+.footer {
+    padding: 35px;
+}
+
+.footer {
+    margin-top: 40px;
+}
+
+.left1 {
+    margin-right: 30px;
+}
+
+.Footer_top ul li {
+    list-style: none;
+    padding: 5px 0;
+}
+
+.Footer_top h4 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: cth79;
+    font-size: 20px;
+    color: black;
+}
+
+.Footer_top ul li a {
+    color: black;
+    font-size: 16px;
+}
+
+
+.Footer_top img{
+    
+     height: 40px;
+    margin-top: 30px;
+}
+.abc img{
+    transition: all 1s ease;
+    
+}
+.abc img:hover{
+    transform: scale(1.1);
+}
